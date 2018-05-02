@@ -1,0 +1,102 @@
+﻿html, body {
+	height: 100%;
+	width: 100%;
+}
+.navbar {
+	background-color: #1d1941ab;
+	padding: 1% 0;
+	font-size: 1.2em;
+}
+
+.navbar-brand{
+	min-height: 55px;
+	padding: 0 15px 5px;
+
+}
+
+.navbar-default .navbar-nav li a {
+	color: #D5D5D5;
+}
+
+.navbar-default .navbar-nav li a:hover,
+.navbar-default .navbar-nav li a.active {
+	color: #FFF;
+}
+
+#home {
+	background: url(img/ambulance.jpg) no-repeat center center fixed;
+	display: table;
+	height: 80%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+
+
+.landing-text {
+	display: inline-block;
+	vertical-align: middle;
+	text-align: left;
+	margin: 100px;
+	margin-top: 250px;
+	width: 435px;
+	word-wrap: break-word;
+	color: rgb(255, 255, 255);
+	font-size: 70px;
+	
+}
+
+.padding {
+	padding-bottom: 2rem;
+}
+
+.welcome {
+	width: 75%;
+	margin: 0 auto;
+	padding-top: 2rem;
+}
+
+.welcome hr{
+	border-top:2px solid #b4b4b4;
+	width: 95%;
+	margin-top: .3rem;
+	margin-bottom: 1rem;
+}
+.fa-code {
+	color: #e54d26;
+}
+.fa-bold {
+	color: #563d7c;
+}
+.fa-css3 {
+	color: #2163af;
+}
+.fa-code, .fa-bold, .fa-css3 {
+	font-size: 4em;
+	margin: 10px;
+}
+footer {
+	width: 100%;
+	background-color: #23415c;
+	padding: 5% 5% 10% 5%;
+	color: #FFF;
+}
+.fa {
+	padding: 15px;
+	font-size: 25px;
+	color: #FFF;
+}
+
+.fa:hover {
+	color: #D5D5D5;
+	text-decoration: none;
+}
+
+.icon {
+	max-width: 350px;
+}
+.h3 {
+
+}
+
+
